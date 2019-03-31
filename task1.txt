@@ -3,3 +3,5 @@
 "Xin chào, đây là demo branch2"
 
 "Xin chào, đây là demo master"
+
+"Xin chào, đây là demo branch2 - continous"
